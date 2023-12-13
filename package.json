@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@johnlindquist/kit": "file:../.kit",
+    "playwright": "^1.40.1"
+  }
+}
